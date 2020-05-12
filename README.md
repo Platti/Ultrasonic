@@ -1,5 +1,5 @@
 # Ultrasonic
-Arduino library designed to contemporary measure the distances with multiple ultrasonic distance sensors (HC-SR04) with connected trigger pins.
+Arduino library designed to simultaneously measure the distances with multiple ultrasonic distance sensors (HC-SR04) with interconnected trigger pins.
 
 With this library multiple HC-SR04 sensors can be triggered at the same time and the distance is measured with each of them. Keep in mind that those sensors use the same frequency and hence can interfere with each other. Thus, the sensors must NOT point towards each other!
 
